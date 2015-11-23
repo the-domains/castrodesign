@@ -1,7 +1,7 @@
 name: castrodesign
 favicon: null
 layout_spectrum: 0.5896996653173119
-typography_spectrum: 0.48610169044695795
+typography_spectrum: 0.51023
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0.36034700414165854
-  lightness: 0.4046400322113186
-  saturation: 0.42257795622572303
+  lightness: 0.8125
+  saturation: 0.3125
   rhythmicContrast: 0.12266538268886507
 purpose: []
